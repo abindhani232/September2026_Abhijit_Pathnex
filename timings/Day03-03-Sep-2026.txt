@@ -1,0 +1,7 @@
+I  learned linux file permissions and some other commands today
+
+i get prepared to improve my communication on todays live session
+
+learned about find command and absolute and relative path using chat gpt 
+
+now doing git code push with out the help of the notes.

@@ -1,0 +1,4 @@
+I am trying to understand about how the terraform used to build the ec2 instance from the CLI
+
+revisioning old class studies
+

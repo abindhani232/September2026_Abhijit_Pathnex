@@ -1,0 +1,7 @@
+today i finnaly understood how to use terraform to create EC2
+practically done it my self 
+
+
+i am complete;y new to these study 
+
+difficulty in cathing up.

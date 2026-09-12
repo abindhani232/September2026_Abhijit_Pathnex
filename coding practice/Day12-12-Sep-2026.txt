@@ -1,0 +1,14 @@
+provider "aws"{
+	region = "ap-south-1"
+	}
+
+resource "aws_instace" "Abhijit_EC2" {
+	ami = "ami-08188a5a4dfdbd573"
+	instance_type = "t3.micro"
+	key_name = "Abhijit_terrafor_key"
+	tag = {
+		name = "test_EC2"
+		}
+	}
+
+

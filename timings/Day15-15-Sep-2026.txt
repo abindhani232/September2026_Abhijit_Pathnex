@@ -1,0 +1,1 @@
+revisioning the docker today. finnally aws is completed.
